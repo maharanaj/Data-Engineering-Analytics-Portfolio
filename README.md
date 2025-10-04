@@ -55,5 +55,5 @@ This repository showcases end-to-end data engineering and analytics solutions bu
 Created by **Jitendra Maharana**  
 🔗 LinkedIn: https://www.linkedin.com/in/jitendra-maharana/  
 📩 Email: jitendra.maharana@gmail.com
-📞 Mobile: 0467-543-765
+📞 Mobile: [0467-543-765]
 
