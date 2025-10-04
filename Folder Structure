@@ -1,0 +1,34 @@
+Data-Engineering-Analytics-Portfolio/
+│
+├── README.md
+├── architecture/
+│   └── architecture-diagram.png        # your draw.io or Lucidchart export
+├── data/
+│   ├── synthetic_generator.py          # script to generate fake/synthetic data
+│   └── sample_data.csv                 # small example dataset
+├── dbt_project/
+│   ├── models/
+│   │   ├── staging/
+│   │   ├── marts/
+│   │   └── tests/
+│   └── dbt_project.yml
+├── adf_pipeline/
+│   └── pipeline_config.json            # export of Azure Data Factory pipeline
+├── databricks/
+│   └── etl_notebook.ipynb              # PySpark ETL notebook
+├── dashboards/
+│   ├── finance-dashboard.pbix          # Power BI (finance/superannuation case)
+│   ├── retail-dashboard.pbix           # Power BI (retail/FMCG case)
+│   └── screenshots/                    # dashboard screenshots
+│       ├── dashboard1.png
+│       └── dashboard2.png
+├── compliance/
+│   ├── data_classification_register.md
+│   ├── incident_response_runbook.md
+│   └── apra_mapping.md
+├── cicd/
+│   └── github-actions-ci.yml           # CI/CD pipeline for dbt tests
+├── case_study/
+│   └── project_case_study.pdf          # your 2-page case study (below)
+└── runbook/
+    └── cutover-runbook.md
